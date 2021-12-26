@@ -1,0 +1,3 @@
+#Comando para levantar servidor python
+
+python -m http.server 7800

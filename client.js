@@ -1,7 +1,7 @@
 
 //Header da requisição
 var settings = {
-    "url": "...<aqui voce coloca a URL(endereço da API)",
+    "url": "http://localhost:8081/clientes",
     "method": "GET",
     "timeout": 0,
     "headers": {
